@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(219, 248, 112);
+    font-size: 20px;
+}
+.container{
+    /* background-color: aquamarine; */
+    height: 600px;
+    display: grid;
+    place-items: center;
+    margin: 20px;
+    text-align: center;
+}
+.center{
+    /* background-color: bisque; */
+    width: 70%;
+    text-align: center;
+}
+.input{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 8px;
+    font-size: 16px;
+}
+.btn{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 8px;
+    background-color: aquamarine;
+    font-size: 16px;
+}
+.search{
+    color: red;
+}
